@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jiGOB/koQsgxE6oeveDxaNA6EeIk6GindaD9ba9sSQYFwzuUk2WW/+jDxkLzrhUO6D0DmllIV6/c2lB19b+cXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MINEDUCYT\\Desktop\\PRE\\PatyEasyPOS\\PatyEasyPOS\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MINEDUCYT\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\MINEDUCYT\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\MINEDUCYT\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
