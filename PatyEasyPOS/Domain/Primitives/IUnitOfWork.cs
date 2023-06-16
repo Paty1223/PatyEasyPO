@@ -1,6 +1,6 @@
 namespace Domain.Primitives;
 
-public interface IunitOfwokr
+public interface IUnitOfWork
 {
     Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
 }

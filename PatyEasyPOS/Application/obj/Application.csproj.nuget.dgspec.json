@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MINEDUCYT\\Desktop\\PRE\\PatyEasyPOS\\PatyEasyPOS\\Application\\Application.csproj": {}
+    "c:\\Users\\MINEDUCYT\\Desktop\\PRE\\PatyEasyPOS\\PatyEasyPOS\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MINEDUCYT\\Desktop\\PRE\\PatyEasyPOS\\PatyEasyPOS\\Application\\Application.csproj": {
+    "c:\\Users\\MINEDUCYT\\Desktop\\PRE\\PatyEasyPOS\\PatyEasyPOS\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\PRE\\PatyEasyPOS\\PatyEasyPOS\\Application\\Application.csproj",
+        "projectUniqueName": "c:\\Users\\MINEDUCYT\\Desktop\\PRE\\PatyEasyPOS\\PatyEasyPOS\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\PRE\\PatyEasyPOS\\PatyEasyPOS\\Application\\Application.csproj",
+        "projectPath": "c:\\Users\\MINEDUCYT\\Desktop\\PRE\\PatyEasyPOS\\PatyEasyPOS\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\PRE\\PatyEasyPOS\\PatyEasyPOS\\Application\\obj\\",
+        "outputPath": "c:\\Users\\MINEDUCYT\\Desktop\\PRE\\PatyEasyPOS\\PatyEasyPOS\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\MINEDUCYT\\Desktop\\PRE\\PatyEasyPOS\\PatyEasyPOS\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\PRE\\PatyEasyPOS\\PatyEasyPOS\\Domain\\Domain.csproj"
+              "c:\\Users\\MINEDUCYT\\Desktop\\PRE\\PatyEasyPOS\\PatyEasyPOS\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\MINEDUCYT\\Desktop\\PRE\\PatyEasyPOS\\PatyEasyPOS\\Domain\\Domain.csproj"
               }
             }
           }
@@ -42,9 +42,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.7, )"
             }
           },
           "imports": [
@@ -67,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\MINEDUCYT\\Desktop\\PRE\\PatyEasyPOS\\PatyEasyPOS\\Domain\\Domain.csproj": {
+    "c:\\Users\\MINEDUCYT\\Desktop\\PRE\\PatyEasyPOS\\PatyEasyPOS\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\PRE\\PatyEasyPOS\\PatyEasyPOS\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Users\\MINEDUCYT\\Desktop\\PRE\\PatyEasyPOS\\PatyEasyPOS\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\PRE\\PatyEasyPOS\\PatyEasyPOS\\Domain\\Domain.csproj",
+        "projectPath": "c:\\Users\\MINEDUCYT\\Desktop\\PRE\\PatyEasyPOS\\PatyEasyPOS\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\PRE\\PatyEasyPOS\\PatyEasyPOS\\Domain\\obj\\",
+        "outputPath": "c:\\Users\\MINEDUCYT\\Desktop\\PRE\\PatyEasyPOS\\PatyEasyPOS\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config"
